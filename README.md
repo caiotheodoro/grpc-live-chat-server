@@ -14,3 +14,4 @@ gRPC Live Chat Server is a high-performance, scalable chat application that leve
 - Private messaging
 - Message history storage
 - Scalable architecture for handling numerous concurrent connections
+
